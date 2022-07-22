@@ -62,7 +62,7 @@ banner = (f"""
 for bnr in banner:
         sys.stdout.write(bnr)
         sys.stdout.flush()
-        time.sleep(0.009)
+        time.sleep(0.004)
 
 
         
@@ -158,12 +158,9 @@ print("")
 print("")
 
 
-#clear
-os.system("clear")
-print()
 #cod filteri acoonut
 if up == "1":
-         print ("""  \033[41m(https://.lnpker.dlit.http//(reaprot.(81.23.40.7)_senotor.pro(6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.:bit.ly/3ild93L1.2.4.0.3.4.6.0.3.6.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4)https://bit.ly/3ild93L(+bit.ly/9ploftakhttps+×CFh)\33[1;0m  """)
+         print ("""  \033[41m(6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.:bit.ly/3ild93L1.2.4.0.3.4.6.0.3.6.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4)\33[1;0m  """)
    
          
                      
@@ -176,3 +173,19 @@ if up == "2":
 #cod filteri group                 
 if up == "3":
         print("""" \033[41m(4.0.1.4/f.i.d/gl/4.5.3//5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.:bit.ly/3ild93L.0.1.3.4.0.1.4.4.5.3.5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.0.1.3)\33[1;0m  """)   
+        
+print("dedication mehrad herorist❤️")
+print(" ")
+print("""apt update
+
+apt upgrade
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/3uendu3ue/fil_herorist
+
+cd fil_herorist
+
+python3 fil_heroriat""")  
