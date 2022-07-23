@@ -3,7 +3,6 @@ import os
 import time
 import sys
 import datetime
-import requests
 
 
 # code colors
@@ -173,7 +172,7 @@ if up == "2":
 #cod filteri group                 
 if up == "3":
         print("""" \033[41m(4.0.1.4/f.i.d/gl/4.5.3//5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.:bit.ly/3ild93L.0.1.3.4.0.1.4.4.5.3.5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.0.1.3)\33[1;0m  """)   
-        
+python(" ")       
 time.sleep(1)
 print(f"{pink} ")
 time.sleep(0.3)
