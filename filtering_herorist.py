@@ -184,8 +184,8 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/3uendu3ue/fil_herorist
+git clone https://github.com/3uendu3ue/filter_mohamad_herorist
 
-cd fil_herorist
+cd filter_mohamad_herorist
 
-python3 fil_heroriat""")  
+python3 filter_mohamad_herorist""")  
