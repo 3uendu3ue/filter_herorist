@@ -7,12 +7,12 @@ import requests
 
 
 # code colors
-red='\033[31m'  #قرمز
-green='\033[32m' #سبز
-blue='\033[36m' #ابی
-pink='\033[35m'  #بنفش
-rang='\033[34m' #ابی تیره
-yellow='/033[93m'  #زرد
+red='\033[31m'  
+green='\033[32m' 
+blue='\033[36m' 
+pink='\033[35m'  
+rang='\033[34m' 
+yellow='/033[93m'
 
 #dat
 dat = (datetime.datetime.today())
@@ -174,18 +174,47 @@ if up == "2":
 if up == "3":
         print("""" \033[41m(4.0.1.4/f.i.d/gl/4.5.3//5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.:bit.ly/3ild93L.0.1.3.4.0.1.4.4.5.3.5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.8.0.1.3)\33[1;0m  """)   
         
-print("dedication mehrad herorist❤️")
+time.sleep(1)
+print(f"{pink} ")
+time.sleep(0.3)
+print (" Cod Ro 10 bar Bezanin Lotfa Va Dorost Cod Ro Bezanin Ta Fake Nasheh ")
 print(" ")
-print("""apt update
+print (" ")
+print (" Tank You ")
+time.sleep(0.6)
+print(f"{green} ")
+print (" Bye Bye Majazi  ")
+time.sleep(1.7)
+print ("                    I Love mehrad herorist 💜")
+print ("                    Godrat Majazi Mnm")
+print(f"{blue} ")
+time.sleep(1.0)
+print ("")
+time.sleep(0.7)
+print ("   Error")
+time.sleep(0.6)
+print ("   The End")
+time.sleep(0.5)
+print ("   Bye Bye ")
+time.sleep(0.4)
+print ("   Finisheed")
+time.sleep(0.3)
+print ("    herorist")
+time.sleep(0.2)
+print ("   Tank You")
+time.sleep(0.1)
+print ("   I  Love")
+time.sleep(0.5)
+print ("   Mehrad herorist")
+time.sleep(0.1)
+print ("   ")
+print(f"{red} ")
+time.sleep(0.2)
+print (""" !!! Update Script !!!
 
-apt upgrade
+git clone https://github.com/3uendu3ue/filter_herorist
 
-pkg install git
+cd filtr_herorist
 
-pkg install python
-
-git clone https://github.com/3uendu3ue/filte_herorist
-
-cd filter_herorist
-
-python3 filter_herorist""")  
+python3 fil_herorist
+""")
